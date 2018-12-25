@@ -12,7 +12,7 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 
 #### Example usage:
 * https://timestamp1-project.glitch.me//api/timestamp/2015-12-15
-* https://timestamp1-project.glitch.me//api/timestamp/1450137600000
+* https://timestamp1-project.glitch.me//api/timestamp/Dec12,2015
 
 #### Example output:
 * {"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}
