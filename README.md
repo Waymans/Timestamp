@@ -1,3 +1,5 @@
+# View project on <a href="https://timestamp1-project.glitch.me/" target="_blank">Glitch</a>.
+
 # API Project: Timestamp Microservice for FCC
 
 ### User stories :
@@ -11,8 +13,8 @@ e.g. `{"unix": 1479663089000 ,"utc": "Sun, 20 Nov 2016 17:31:29 GMT"}`.
 5. If the date string is **invalid** the api returns a JSON having the structure `{"unix": null, "utc" : "Invalid Date" }`. It is what you get from the date manipulation functions used above.
 
 #### Example usage:
-* https://timestamp1-project.glitch.me//api/timestamp/2015-12-15
-* https://timestamp1-project.glitch.me//api/timestamp/Dec12,2015
+* [base_url]/api/timestamp/2015-12-15
+* [base_url]/api/timestamp/Dec12,2015
 
 #### Example output:
 * {"unix":1451001600000, "utc":"Fri, 25 Dec 2015 00:00:00 GMT"}
