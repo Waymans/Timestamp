@@ -1,4 +1,4 @@
-# View project on <a href="https://timestamp1-project.glitch.me/" target="_blank">Glitch</a>.
+# View project on [Glitch](https://timestamp1-project.glitch.me/).
 
 # API Project: Timestamp Microservice for FCC
 
