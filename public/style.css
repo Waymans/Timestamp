@@ -1,17 +1,17 @@
 /****** Main Styling ******/
 
 body {
-	font-family: 'Monospace', sans-serif;
-	font-size: 16px;
-	color: #222;
-	background-color: lightsteelblue;
-	text-align: center;
-	line-height: 2em
+  font-family: 'Monospace', sans-serif;
+  font-size: 16px;
+  color: #222;
+  background-color: lightsteelblue;
+  text-align: center;
+  line-height: 2em
 }
 
 .container {
-	padding: 0;
-	margin-top: 40px;
+  padding: 0;
+  margin-top: 40px;
 }
 
 h3 {
@@ -23,7 +23,7 @@ li {
 }
 
 .footer {
-	margin-top: 40px;
+  margin-top: 40px;
 }
 
 code {
@@ -34,5 +34,8 @@ code {
   border: 1px solid maroon;
 }
 a {
-	color: maroon;
+  color: maroon;
+}
+a:hover {
+  color: olive 
 }
